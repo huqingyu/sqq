@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding='UTF-8'?>
+
+<SkinRes 
+default_friend_avatar="misc/friend.png"
+default_group_avatar="misc/group.png"
+
+status_online="status/imonline.png"
+status_qme="status/Qme.png"
+status_away="status/away.png"
+status_busy="status/busy.png"
+status_mute="status/mute.png"
+status_hidden="status/invisible.png"
+status_offline="status/imoffline.png"
+
+chatdlg_qqface="chatdlg/qqface.png"
+chatdlg_sendimg="chatdlg/sendimg.png"
+
+systray_quit="tray/quit.png"
+systray_logout="tray/logout.png"
+systray_restore="tray/maximize.png"
+systray_minimize="tray/minimize.png"
+
+loading_img="misc/loading.gif"
+/>
